@@ -1,4 +1,4 @@
-## I use Arch btw
+
 
 <!--
 **pxxel/pxxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
